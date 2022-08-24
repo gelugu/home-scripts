@@ -8,6 +8,12 @@ Feel free to use it if you want to.
 
 To run scripts anywhere tou need to add `bin` folder to your path.
 
+```shell
+export PATH=$HOME/home-scripts/bin:$PATH
+```
+
+Replace `$HOME/home-scripts` with your clone path.
+
 Requirements:
 
 - python
