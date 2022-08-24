@@ -16,4 +16,4 @@ Requirements:
 
 ### check-git
 
-List all unstaged and uncommited changes in your local repositories
+List all unstaged and uncommited changes in your local repositories in your home directory.
