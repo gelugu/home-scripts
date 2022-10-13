@@ -1,1 +1,1 @@
-python3 $(dirname -- "$0")/../check-git.py
+python3 $(dirname -- "$0")/../check-git.py $@
