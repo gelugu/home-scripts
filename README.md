@@ -6,7 +6,7 @@ Feel free to use it if you want to.
 
 ## Preparing
 
-To run scripts anywhere tou need to add `bin` folder to your path.
+To run scripts anywhere you need to add `bin` folder to your path.
 
 ```shell
 export PATH=$HOME/home-scripts/bin:$PATH
